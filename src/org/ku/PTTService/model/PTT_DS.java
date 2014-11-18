@@ -1,4 +1,4 @@
-package model;
+package org.ku.PTTService.model;
 
 import java.util.List;
 

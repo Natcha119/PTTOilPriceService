@@ -1,9 +1,9 @@
-package controller;
+package org.ku.PTTService.controller;
 
 import javax.swing.JOptionPane;
 import javax.xml.ws.WebServiceException;
 
-import view.OilPriceView;
+import org.ku.PTTService.view.OilPriceView;
 
 /*
  * Class to run the output as Desktop application

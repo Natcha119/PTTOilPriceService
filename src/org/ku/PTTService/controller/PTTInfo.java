@@ -1,5 +1,5 @@
 
-package controller;
+package org.ku.PTTService.controller;
 
 import java.net.MalformedURLException;
 import java.net.URL;

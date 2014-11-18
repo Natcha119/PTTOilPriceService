@@ -1,4 +1,4 @@
-package controller;
+package org.ku.PTTService.controller;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
@@ -9,8 +9,8 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 
-import model.DataAccess;
-import model.PTT_DS;
+import org.ku.PTTService.model.DataAccess;
+import org.ku.PTTService.model.PTT_DS;
 
 /**
  * This class use for read out the XML

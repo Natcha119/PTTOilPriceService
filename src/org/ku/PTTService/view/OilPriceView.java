@@ -1,4 +1,4 @@
-package view;
+package org.ku.PTTService.view;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -12,8 +12,8 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import model.DataAccess;
-import controller.Reader;
+import org.ku.PTTService.controller.Reader;
+import org.ku.PTTService.model.DataAccess;
 
 /**
  * This class generate the view of Current oil price

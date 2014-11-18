@@ -1,5 +1,5 @@
 
-package controller;
+package org.ku.PTTService.controller;
 
 import javax.xml.bind.annotation.XmlRegistry;
 
