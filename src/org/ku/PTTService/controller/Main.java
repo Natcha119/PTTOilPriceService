@@ -39,6 +39,7 @@ public class Main {
 			}
 			catch(WebServiceException e){
 				createAlertBox();
+				t.stop();
 			}
 			
 		}
