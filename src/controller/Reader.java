@@ -9,8 +9,8 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 
-import Model.DataAccess;
-import Model.PTT_DS;
+import model.DataAccess;
+import model.PTT_DS;
 
 /**
  * This class use for read out the XML
