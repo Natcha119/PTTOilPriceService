@@ -48,7 +48,7 @@ public class Main {
 	/*
 	 * Create DialogBox for application when losing
 	 * connection with service like when there is
-	 * no internet connection.
+	 * have internet connection problem.
 	 */
 	private static void createAlertBox() {
 		Object[] options = {"Retry",
